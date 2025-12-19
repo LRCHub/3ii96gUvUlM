@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ルビーの指環",
+  "base_artist": "寺尾 聰",
+  "createdAt": "2025-12-19T11:05:11.820614Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "Akira Terao",
+      "has_synced": true,
+      "path": "select/01_ルビーの指環_Akira_Terao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "寺尾聰",
+      "has_synced": true,
+      "path": "select/02_ルビーの指環_寺尾聰.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "Terao, Akira",
+      "has_synced": true,
+      "path": "select/03_ルビーの指環_Terao,_Akira.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ルビーの指環 - Ruby No Yubiwa",
+      "artist": "Akira Terao",
+      "has_synced": true,
+      "path": "select/04_ルビーの指環_-_Ruby_No_Yubiwa_Akira_Terao.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/05_ルビーの指環_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "Akira Terao",
+      "has_synced": true,
+      "path": "select/06_ルビーの指環_Akira_Terao.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "寺尾聰",
+      "has_synced": false,
+      "path": "select/07_ルビーの指環_寺尾聰.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "Terao Akira",
+      "has_synced": false,
+      "path": "select/08_ルビーの指環_Terao_Akira.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "Terao Akira",
+      "has_synced": true,
+      "path": "select/09_ルビーの指環_Terao_Akira.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ルビーの指環",
+      "artist": "寺尾 聰",
+      "has_synced": true,
+      "path": "select/10_ルビーの指環_寺尾_聰.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルビーの指環",
+      "artist": "寺尾 聰",
+      "has_synced": false,
+      "path": "select/pl_01_ルビーの指環_寺尾_聰.txt"
+    }
+  ]
+}
